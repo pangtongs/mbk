@@ -1,3 +1,1 @@
-# mbk
-
-this is mbk
+#MBK static site
