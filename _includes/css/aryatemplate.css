@@ -2,8 +2,18 @@
 @import url("https://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
 
 /*
+resize image in page, custom
+*/
+img[alt=besi_polos] { width: 200px; height: 160px; }
+img[alt=besi_ulir] { width: 200px; height: 160px;}
+img[alt=lab_deli] { width: 300px; height: 200px;}
+img[alt=server_deli] { width: 300px; height: 200px;}
+img[alt=production_line_deli] { width: 300px; height: 200px;}
+
+/*
 	Verti by HTML5 UP modified
 */
+
 
 /* Reset */
 	.card h2
