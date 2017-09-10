@@ -72,6 +72,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		vertical-align: baseline;
 		font-family:Arial;
 		line-height:1.5;
+		color:white;
 
 	}
 
@@ -1390,7 +1391,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		/* /* background-size: 100% 30em, auto; */ */
 		/* font-family: 'Open Sans', sans-serif; */
 		/* font-size: 13pt; */
-		/* color: #696969; */
+		/* color: white; */
 		/* font-weight: 300; */
 		/* line-height: 2.25em; */
 	/* } */
@@ -1409,7 +1410,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 	input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: white;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -1424,7 +1425,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #444;
+		color: white;
 		font-weight: 800;
 	}
 
@@ -1447,7 +1448,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 
 	b, strong {
 		font-weight: 600;
-		color: #444;
+		color: white;
 	}
 
 	i, em {
@@ -1521,7 +1522,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		font-weight: 800;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
-		color: #444;
+		color: white;
 	}
 
 	form input[type="text"],
@@ -1717,7 +1718,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		.button.alt {
 			background: #f1f1f1;
 			background: rgba(0, 0, 0, 0.05);
-			color: #444;
+			color: white;
 		}
 
 			input[type="button"].alt:hover,
@@ -1893,7 +1894,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 				}
 
 				.widget.contact ul li a:hover {
-					background: #444444;
+					background: white444;
 				}
 
 				.widget.contact ul li a:active {
@@ -1980,7 +1981,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 				transition: background-color .25s ease-in-out;
 				font-weight: 800;
 				letter-spacing: 0.025em;
-				color: #696969;
+				color: white;
 				text-decoration: none;
 				border-radius: 6px;
 				padding: 0.5em 1em 0.5em 1em;
@@ -1999,14 +2000,14 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 			}
 
 			#nav ul li.current a {
-				background: #444;
+				background: white;
 				color: #fff;
 			}
 
 	.dropotron {
 		background: #fff;
 		letter-spacing: 0.025em;
-		color: #696969;
+		color: white;
 		text-decoration: none;
 		border-radius: 6px;
 		padding: 0.75em 0;
@@ -2393,7 +2394,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 					height: 54px;
 					line-height: 54px;
 					border-top: solid 1px #e8e8e8;
-					color: #696969;
+					color: white;
 				}
 
 					#navPanel .link:first-child {
@@ -2426,7 +2427,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 				}
 
 				#navPanel .depth-0 {
-					color: #444;
+					color: white;
 					font-weight: 800;
 				}
 
