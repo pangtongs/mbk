@@ -1494,7 +1494,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 		header h2, header h3 {
@@ -1898,7 +1898,8 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 4.5em 0 1em 0;
+		padding: 0em 0 0em 0;
+		background-color: #010d36;
 	}
 
 	#features-wrapper {
@@ -2226,8 +2227,9 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1em 0;
+				padding: 0;
 				text-align: center;
+				background-color: #010d36;
 			}
 
 			#footer-wrapper {
@@ -2581,7 +2583,8 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1.5em 0;
+				padding: 0;
+				background-color: #010d36;
 			}
 
 			#banner-wrapper {

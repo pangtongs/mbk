@@ -1,3 +1,3 @@
-baseurl: 'https://pangtongs.github.io/mbk/'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
