@@ -5,4 +5,4 @@ meta: Deli is covered in South China Morning Post
 category: news
 ---
 
-![scmp](/img/scmp.jpg)
+![scmp]({{site.baseurl}}img/scmp.jpg)

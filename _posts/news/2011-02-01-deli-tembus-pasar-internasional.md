@@ -13,4 +13,4 @@ PT. PUTRA BAJA DELI rutin melakukan edukasi pasar dan sosialisasi pemakaian besi
 
 Untuk menjamin pemenuhan kebutuhan baja dalam negeri, PT. PUTRA BAJA DELI senantiasa menjaga ready stock produk di pabrik, guna mendukung kelancaran proyek pembangunan dan permintaan dari customer.
 
- ![Export Besi](/img/export_besi.jpg)
+ ![Export Besi]({{site.baseurl}}img/export_besi.jpg)
