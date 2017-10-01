@@ -4,8 +4,10 @@
 /*
 resize image in page, custom
 */
-img[alt=besi_polos] { width: 200px; height: 160px; }
-img[alt=besi_ulir] { width: 200px; height: 160px;}
+img[alt=besi_ulir] { width: 700px; height: 600px;}
+img[alt=product_1] { width: 350px; height: 300px;}
+img[alt=product_2] { width: 350px; height: 300px;}
+
 img[alt=lab_deli] { width: 300px; height: 200px;}
 img[alt=server_deli] { width: 300px; height: 200px;}
 img[alt=production_line_deli] { width: 300px; height: 200px;}
@@ -15,7 +17,7 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 */
 
 
-/* Reset */
+/* Reset */x
 	.card h2
 	{
 		font-size:24px;
@@ -1987,15 +1989,15 @@ img[alt=production_line_deli] { width: 300px; height: 200px;}
 			}
 
 			#nav ul li:hover a, #nav ul li:hover span {
-				background: #fff;
+				background: blue;
 			}
 
 			#nav ul li.active a, #nav ul li.active span {
-				background: #fff;
+				background: blue;
 			}
 
 			#nav ul li.current a {
-				background: white;
+				background: blue;
 				color: #fff;
 			}
 
